@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/potfolio/static/css/main.28a56321.css",
-    "main.js": "/potfolio/static/js/main.78aacb00.js",
+    "main.js": "/potfolio/static/js/main.878d2f14.js",
     "static/js/787.9b9c0edf.chunk.js": "/potfolio/static/js/787.9b9c0edf.chunk.js",
     "static/media/my-image.jpg": "/potfolio/static/media/my-image.9cf0612e7e8da2951781.jpg",
     "static/media/logo2.jpg": "/potfolio/static/media/logo2.34063158bd9ac206bb65.jpg",
-    "static/media/SalahResume.pdf": "/potfolio/static/media/SalahResume.551131b303ce527f622c.pdf",
+    "static/media/Salahrcv.pdf": "/potfolio/static/media/Salahrcv.a9d28e6e3847a42767ca.pdf",
     "static/media/p-l.png": "/potfolio/static/media/p-l.c727d075e92ad38a1903.png",
     "static/media/to-do.png": "/potfolio/static/media/to-do.6c84c9953dc29cebbc33.png",
     "static/media/online-courses.jpg": "/potfolio/static/media/online-courses.6b884f108fb51a0ee156.jpg",
@@ -22,11 +22,11 @@
     "static/media/npm.svg": "/potfolio/static/media/npm.764db555a82ab18ef3f80a5a0d1aadfc.svg",
     "index.html": "/potfolio/index.html",
     "main.28a56321.css.map": "/potfolio/static/css/main.28a56321.css.map",
-    "main.78aacb00.js.map": "/potfolio/static/js/main.78aacb00.js.map",
+    "main.878d2f14.js.map": "/potfolio/static/js/main.878d2f14.js.map",
     "787.9b9c0edf.chunk.js.map": "/potfolio/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28a56321.css",
-    "static/js/main.78aacb00.js"
+    "static/js/main.878d2f14.js"
   ]
 }
