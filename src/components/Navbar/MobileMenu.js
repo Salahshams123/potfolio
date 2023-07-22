@@ -31,7 +31,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
         </MobileMenuLink>
   
         <MobileButton
-          href="mailto:mugambi645@gmail.com "
+          href="mailto:salahshamseldin123@gmail.com "
           target="_blank"
           rel="noreferrer"
         >
@@ -53,14 +53,14 @@ const MobileMenu = ({ isOpen, toggle }) => {
       </MobileMenuList>
       <MobileSocials>
         <MobileSocial
-          href="mailto:mugambi645@gmail.com"
+          href="mailto:salahshamseldin123@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           
         </MobileSocial>
         <MobileSocial
-          href="https://github.com/mugambi645"
+          href="https://github.com/Salahshams123"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -68,7 +68,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
         </MobileSocial>
 
         <MobileSocial
-          href="https://www.linkedin.com/in/patrick-mugambi-172b171a0/"
+          href="https://www.linkedin.com/in/salah-shams-a1185723b/"
           target="_blank"
           rel="noopener noreferrer"
         >

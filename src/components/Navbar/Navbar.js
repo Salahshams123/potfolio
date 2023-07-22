@@ -39,7 +39,7 @@ const Navbar = () => {
   return (
     <StyledNavbar className={stickyNav ? "sticky" : ""}>
       <div>
-        <NavLogo to="https://github.com/Mugambi645" onClick={toTop} src={logo} alt="logo"  style={{backgroundColor:"white", width: "70px", height:"70px", borderRadius:"50%"}}  />
+        <NavLogo to="https://github.com/Salahshams123" onClick={toTop} src={logo} alt="logo"  style={{backgroundColor:"white", width: "70px", height:"70px", borderRadius:"50%"}}  />
       </div>
       <NavMenuList>
         <NavList>
@@ -89,7 +89,7 @@ const Navbar = () => {
         </NavList>
       </NavMenuList>
       <StyledCTA
-        href="mailto:mugambi645@gmail.com "
+        href=" mailto:salahshamseldin123@gmail.com "
         target="_blank"
         rel="noreferrer"
       >

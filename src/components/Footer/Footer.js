@@ -32,7 +32,7 @@ const Footer = () => {
 
       <FooterBigLinkContainer>
         <FooterBigLink
-          href="mailto:jerichobantiquete@gmail.com"
+          href="mailto:salahshamseldin123@gmail.com"
           data-hover="Let's talk!"
         >
    
@@ -79,7 +79,7 @@ const Footer = () => {
         <small>
           &copy; Copyright {year},{" "}
           <Small
-            href="https://github.com/mugambi645"
+            href="https://github.com/Salahshams123"
             target="_blank"
             rel="noopener noreferrer"
           >

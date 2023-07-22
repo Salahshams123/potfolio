@@ -45,7 +45,7 @@ const About = () => {
             <ResumeLink
               href={resume}
               icon={downloadIcon}
-              download="resume-jericho-bantiquete"
+              download="Salah-shams-cv"
             >
               Download Resume
             </ResumeLink>
